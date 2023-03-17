@@ -625,12 +625,12 @@ footer span a:hover{
         padding: 0 50px;
     }
 
-    #menu-btn{
+    .menu-btn{
          display: block;
          z-index: 999;
     }
 
-    #menu-btn i.active:before {
+    .menu-btn i.active:before {
         content: "\f00d";
     }
 
@@ -659,9 +659,6 @@ footer span a:hover{
         margin: 20px 0;
         font-size: 25px;
     }
-    .dropdown-content {
-        position: relative;
-      }
 
     .home .home-content .text-2{
         font-size: 70px;
